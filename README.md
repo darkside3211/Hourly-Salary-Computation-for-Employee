@@ -2,6 +2,8 @@
 
 This is a simple C# program that calculates the salary of an employee based on their hourly rate and the number of hours worked.
 
+This repo also serves as a practice repo for change, commits, and the likes.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
