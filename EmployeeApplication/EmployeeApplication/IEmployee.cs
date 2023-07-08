@@ -1,4 +1,5 @@
-﻿namespace EmployeeInterface
+﻿//Getters and Setters 
+namespace EmployeeInterface
 {
     public interface IEmployee
     {
