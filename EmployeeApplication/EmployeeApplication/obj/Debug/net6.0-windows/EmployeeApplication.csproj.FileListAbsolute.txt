@@ -1,0 +1,17 @@
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.exe
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.deps.json
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.runtimeconfig.json
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.dll
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.pdb
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.AssemblyReference.cache
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.Form1.resources
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.GenerateResource.cache
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.AssemblyInfoInputs.cache
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.AssemblyInfo.cs
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.CoreCompileInputs.cache
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.dll
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\refint\EmployeeApplication.dll
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.pdb
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.genruntimeconfig.cache
+T:\Visual Studio Projects\EmployeeApplication\EmployeeApplication\obj\Debug\net6.0-windows\ref\EmployeeApplication.dll
